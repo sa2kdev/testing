@@ -10,6 +10,7 @@ console.log('layout has been imported here...')
         <header>
             <Link to="/">Home</Link>
             <Link to="/contact">Contact</Link>
+            <Link to="/test">TEst</Link>
         </header>
 
         <Outlet />
